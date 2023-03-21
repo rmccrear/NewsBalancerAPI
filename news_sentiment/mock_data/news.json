@@ -1,0 +1,409 @@
+{
+  "_type": "News",
+  "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Will+Smith+Chris+Rock",
+  "queryContext": {
+    "originalQuery": "Will Smith Chris Rock",
+    "adultIntent": false
+  },
+  "totalEstimatedMatches": 759000,
+  "sort": [
+    {
+      "name": "Best match",
+      "id": "relevance",
+      "isSelected": true,
+      "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Will+Smith+Chris+Rock"
+    },
+    {
+      "name": "Most recent",
+      "id": "date",
+      "isSelected": false,
+      "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Will+Smith+Chris+Rock&sortby=date"
+    }
+  ],
+  "value": [
+    {
+      "name": "Will Smith is reportedly \u201churt\u201d and \u201cembarrassed\u201d by Chris Rock\u2019s comments in Netflix special and wants him to let the slap incident go",
+      "url": "https://www.msn.com/en-us/music/news/will-smith-is-reportedly-hurt%20-and-embarrassed-by-chris-rock-s-commennyts-in-netflix-special-and-wants-him-to-let-the-slap-incident-go/ar-AA18rmY8",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=OVFT.ue97RzgNDnjFpIWCl7rTFC&pid=News",
+          "width": 600,
+          "height": 315
+        }
+      },
+      "description": "Will Smith definitely damaged his reputation by slapping Chris Rock at last year\u2019s Grammys. Given the reactions to the special Rock did for Netflix, he may single-handedly redeem Will Smith with his own comments. For the first time, Chris Rock directly ...",
+      "about": [
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee4ac44e-f1b1-103d-1a41-6b281462b58c",
+          "name": "Will Smith"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a626186-f6d0-d91c-8a76-c80e15569505",
+          "name": "Chris Rock"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+          "name": "Netflix"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "MSN"
+        }
+      ],
+      "datePublished": "2023-03-16T15:29:00.0000000Z",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Oscar Producer Cut \u201cHarder\u201d Will Smith Jokes: \u201cThat Should Be Chris Rock, Not Us\u201d",
+      "url": "https://www.msn.com/en-us/movies/oscars/oscar-producer-cut-harder-will-smith-jokes-that-should-be-chris-rock-not-us/ar-AA18CNgT",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=OVFT.Tlb7jN230sVKgUBM9vuwIC&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "Jimmy Kimmel didn\u2019t go light with the Will Smith jokes at this year\u2019s Oscars; however, the executive producer of the event revealed that \u201charder\u201d jokes were cut from the final script. Kimmel was given the monumental task of hosting the March 12 ceremony following last year\u2019s buzzy events,",
+      "about": [
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee4ac44e-f1b1-103d-1a41-6b281462b58c",
+          "name": "Will Smith"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/29c17c04-88e2-2d99-4e0e-62db2ab85bba",
+          "name": "Cut"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a626186-f6d0-d91c-8a76-c80e15569505",
+          "name": "Chris Rock"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Will Smith"
+        },
+        {
+          "name": "Cut"
+        },
+        {
+          "name": "Chris Rock"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Decider on MSN.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=ODF.9klm56aD22GCZ2Vwz1SPfw&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-03-14T19:25:26.0000000Z",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Is Will Smith Banned From The Oscars? Here\u2019s How Long He Can\u2019t Attend After Slapping Chris Rock",
+      "url": "https://news.yahoo.com/smith-banned-oscars-long-t-010440016.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=OVFT.c3e8J9P6kzrVP1F4Fbaz6S&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "If you\u2019re watching the 2023 Oscars and notice a notable absence and a bunch of jokes about punches, you might be wondering: is Will Smith banned from the Oscars? Will and Chriss",
+      "about": [
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee4ac44e-f1b1-103d-1a41-6b281462b58c",
+          "name": "Will Smith"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a626186-f6d0-d91c-8a76-c80e15569505",
+          "name": "Chris Rock"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/79213619-cdba-029f-3bb0-6512053b4965",
+          "name": "The Academy Awards ceremony (The Oscars)"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!News",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=ODF.nYADEgS75l8rdCg9D-p_OQ&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-03-13T01:04:00.0000000Z"
+    },
+    {
+      "name": "Y\u2019all Said It! Your Juiciest Chris Rock & Will Smith Comments",
+      "url": "https://www.theroot.com/y-all-said-it-your-most-memorable-chris-rock-will-sm-1850213655",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=OVFT.QAnz6RVYdGjzWiqpwTozvS&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "I absolutely agree that Will Smith should not have hit Chris Rock. Not gonna lie, though, it was kind of cathartic to see someone come to a Black woman\u2019s defense in public. We can defend ourselves, but damn if it isn\u2019t exhausting to always have to hide the tears and the anger,",
+      "about": [
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee4ac44e-f1b1-103d-1a41-6b281462b58c",
+          "name": "Will Smith"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a626186-f6d0-d91c-8a76-c80e15569505",
+          "name": "Chris Rock"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Root",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=ODF.PWeSJsJtwb4iZ8edapY_QA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-03-12T15:48:00.0000000Z"
+    },
+    {
+      "name": "\u2018Sit there and do nothing\u2019: Jimmy Kimmel mocks Oscars audience\u2019s reaction to Will Smith slapping Chris Rock",
+      "url": "https://www.yahoo.com/entertainment/jimmy-kimmel-questions-oscars-crowd-060128485.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=OVFT.2VCTcvetImXS6KIsYb80Oy&pid=News",
+          "width": 700,
+          "height": 525
+        }
+      },
+      "description": "Jimmy Kimmel appeared to call out the Academy and the audience\u2019s response to the Will Smith slap during his Oscars 2023 opening monologue. The host addressed the controversial moment that saw Smith hit comedian Chris Rock on stage after he made a joke about his wife,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Yahoo",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-03-13T06:52:00.0000000Z",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Chris Rock and Will Smith can afford selective outrage. The rest of us can\u2019t.",
+      "url": "https://ctmirror.org/2023/03/14/chris-rock-will-smith-afford-selective-outrage-the-rest-of-us-cant/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=OVFT.tJfnL_Ve4f9kl2G3gVItmi&pid=News",
+          "width": 168,
+          "height": 223
+        }
+      },
+      "description": "As the adults, we have to show up for our kids so that, together, we can learn and practice simple ways to cope with our emotions.",
+      "about": [
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6fb36bf-1944-4300-90e6-d4e1eea9660d",
+          "name": "Outrage"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Connecticut Mirror",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=ODF.7uxOeNz22bRG8lOzu6Bz9A&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-03-14T04:01:00.0000000Z"
+    },
+    {
+      "name": "How The 2023 Oscars Addressed Will Smith\u2019s Chris Rock Slap, One Year Later",
+      "url": "https://www.msn.com/en-us/movies/other/how-the-2023-oscars-addressed-will-smith-s-chris-rock-slap-one-year-later/ar-AA18xmIS",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=OVFT.rrdYJHlMYtvlmGbUohEuCy&pid=News",
+          "width": 600,
+          "height": 315
+        }
+      },
+      "description": "Host Jimmy Kimmel made several jokes about Will Smith slapping Chris Rock last year during his opening monologue at the 95th Academy Awards on Sunday, though he didn't refer to either men by name. During his monologue,",
+      "about": [
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee4ac44e-f1b1-103d-1a41-6b281462b58c",
+          "name": "Will Smith"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a626186-f6d0-d91c-8a76-c80e15569505",
+          "name": "Chris Rock"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/4dc2f515-4f51-a5df-38da-479452e619d6",
+          "name": "Academy of Motion Picture Arts and Sciences"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Will Smith"
+        },
+        {
+          "name": "Chris Rock"
+        },
+        {
+          "name": "Academy of Motion Picture Arts and Sciences"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Forbes on MSN.com"
+        }
+      ],
+      "datePublished": "2023-03-13T00:29:46.0000000Z",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Jimmy Kimmel Mocks Will Smith, Chris Rock Slap During 2023 Oscars Opening Monologue",
+      "url": "https://news.yahoo.com/jimmy-kimmel-mocks-smith-chris-004843301.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=OVFT.Kk2jEmfQPZXYgVJVLegJKS&pid=News",
+          "width": 700,
+          "height": 591
+        }
+      },
+      "description": "It was only a matter of time before Will Smith slapping Chris Rock at the 2022 Oscars would be brought up by 2023 host Jimmy Kimmel. During his opening monologue, the late night host addressed the moment head-on,",
+      "about": [
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee4ac44e-f1b1-103d-1a41-6b281462b58c",
+          "name": "Will Smith"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/2364dccf-c965-c85d-2ecb-9187b173bcd2",
+          "name": "Jimmy Kimmel"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a626186-f6d0-d91c-8a76-c80e15569505",
+          "name": "Chris Rock"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!News",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=ODF.nYADEgS75l8rdCg9D-p_OQ&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-03-13T00:48:00.0000000Z",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Will Smith's Chris Rock Slap Brought Him and Jada Pinkett Smith Closer Together, Source Says",
+      "url": "https://www.aol.com/smiths-chris-rock-slap-brought-203227555.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=OVFT.WAF6wxUuciwUcjRTC0VfeS&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Will Smith has had the continued support of his wife, Jada Pinkett Smith. A year after the Fresh Prince of Bel-Air star slapped Chris Rock at the 94th annual Academy Awards, a source tells ET, the couple has been on a journey that has made them closer than ever.",
+      "about": [
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee4ac44e-f1b1-103d-1a41-6b281462b58c",
+          "name": "Will Smith"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a626186-f6d0-d91c-8a76-c80e15569505",
+          "name": "Chris Rock"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/d5f19089-1b07-85cd-7e7d-a9c67febb6c7",
+          "name": "Jada Pinkett Smith"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "AOL",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-03-07T22:32:00.0000000Z",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Chris Rock on Will Smith Oscar slap: \u2018I\u2019m not a victim, baby\u2019",
+      "url": "https://www.msn.com/en-us/news/politics/chris-rock-on-will-smith-oscar-slap-i-m-not-a-victim-baby/ar-AA18fwSn",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=OVFT.E-B6FoomkSIPmbQHX5Y91C&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Comedian and actor Chris Rock has spoken out about being hit by Will Smith at last year\u2019s Academy Awards ceremony.\u00a0 \u201cI\u2019m a not a victim, baby,\u201d Rock said, who called Smith \u201cSuge Smith,\u201d a",
+      "about": [
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee4ac44e-f1b1-103d-1a41-6b281462b58c",
+          "name": "Will Smith"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/2a1aae2c-1922-7638-a69b-8adbda8aaf1a",
+          "name": "Rock On!!"
+        },
+        {
+          "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a626186-f6d0-d91c-8a76-c80e15569505",
+          "name": "Chris Rock"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Will Smith"
+        },
+        {
+          "name": "Rock On!!"
+        },
+        {
+          "name": "Chris Rock"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!Finance on MSN.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=ODF.BO7AWyiZH_p5UNPH6KXa_g&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2023-03-05T18:39:33.0000000Z",
+      "category": "Entertainment"
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
 
 from news_sentiment.feed_with_sentiment import feed_with_sentiment
+from news_sentiment.find_opposing_articles import find_opposing_articles
 
 app = FastAPI()
 
@@ -35,7 +37,19 @@ async def news_with_search(search_term: str):
   return feed_with_sentiment(search_term)
 
 
-# Example path parameter
-@app.get("/name/{name}")
-async def name(name: str):
-  return {"message": f"Hello {name}"}
+@app.get("/opposing_view/{terms}")
+async def opposing_view_get(terms: str, sentiment: str):
+  return find_opposing_articles(terms, "", sentiment)
+
+
+class OppReq(BaseModel):
+  name: str
+  description: str
+  sentiment: str
+  url: str
+
+
+@app.post("/opposing_view")
+async def opposing_view_post(opp_req: OppReq):
+  return find_opposing_articles(opp_req.name, opp_req.description,
+                                opp_req.sentiment, opp_req.url)

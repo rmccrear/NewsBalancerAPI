@@ -2,13 +2,17 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
+import os
+
 from news_sentiment.feed_with_sentiment import feed_with_sentiment
 from news_sentiment.find_opposing_articles import find_opposing_articles
 
 app = FastAPI()
 
+frontend_cors = os.environ['FRONTEND_ORIGIN'];
+
 origins = [
-  "https://newssearcher.rmccrear.repl.co",
+  frontend_cors,
   "http://localhost:3000",
   "http://127.0.0.1:3000",
 ]
